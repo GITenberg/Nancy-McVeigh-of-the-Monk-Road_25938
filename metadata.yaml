@@ -1,0 +1,27 @@
+_repo: Nancy-McVeigh-of-the-Monk-Road_25938
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 25938-h/images/img-cover.jpg
+creator:
+  author:
+    agent_name: Mainer, R. Henry (Robert Henry)
+    birthdate: 1878
+    deathdate: 1965
+    gutenberg_agent_id: '31677'
+    url: http://www.gutenberg.org/2009/agents/31677
+description: ''
+gutenberg_issued: '2008-06-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25938'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Canada -- Fiction'
+- !lcsh 'Older women -- Fiction'
+title: Nancy McVeigh of the Monk Road
+url: http://www.gutenberg.org/ebooks/25938
